@@ -1,4 +1,4 @@
-# SimonBourdareau.r-universe.dev
+# Simon Bourdareau R-Universe
 
 Registry for [r-universe](https://simonbourdareau.r-universe.dev), listing R packages by Simon Bourdareau.
 
